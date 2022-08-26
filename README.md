@@ -1,2 +1,2 @@
-# learn_qiskit
+# Learn Qiskit
 Learn Qiskit by IBM
